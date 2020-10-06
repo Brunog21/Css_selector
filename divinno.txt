@@ -1,0 +1,15 @@
+           <!-- Categorias -->
+
+element :main_menu_ul, 'div > div > div > div'
+
+           <!-- Produtos -->
+
+element :carousel_prod slick-initialized slick-slider, 'div + href'
+
+           <!-- Lupa -->
+
+element :submitSearchBox(event), ':checked'
+
+           <!-- Produtos -->
+
+element :cart_lsc floatright js_cart_btn. '.center'

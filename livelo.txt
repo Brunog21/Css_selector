@@ -1,0 +1,8 @@
+            <!-- Carrinho -->
+element :gtm-link-event, a[href*="/cart"] 
+
+            <!-- Login -->
+element :body-text body-text--small body-text--bold headtext bigger gtm-element-event, '.center'
+
+            <!-- Cadastro -->
+elemant :body-text body-text--small headtext headtext--bold, '.center' 
